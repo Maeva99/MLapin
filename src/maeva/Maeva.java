@@ -17,7 +17,7 @@ public class Maeva {
      */
     public static void main(String[] args) {
         System.out.println ("Hello world");
-        System.out.println("sout tabulation");
+        System.out.println("coucou Maeva");
         Lapin lap = new Lapin("rabbit", 2);
         while(i<=10){
             lap.crier();
